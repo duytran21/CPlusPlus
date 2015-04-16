@@ -1,0 +1,15 @@
+Headlights	20.00
+FrontBumper	230.00
+RearBumper	230.00
+SideMirror	55.00
+Tire19in	96.00
+Tire18in	92.00
+Tire17in	88.00
+Tire16in	84.00
+Tire15in	80.00
+LeftDoor	125.00
+RightDoor	125.00
+OilFilter	25.00
+TimingBelt	45.00
+EngineBolt	5.00
+
